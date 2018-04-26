@@ -1,0 +1,6 @@
+C:\Users\Meneses\documents\visual studio 2017\Projects\lexico\lexico\bin\Debug\lexico.exe.config
+C:\Users\Meneses\documents\visual studio 2017\Projects\lexico\lexico\bin\Debug\lexico.exe
+C:\Users\Meneses\documents\visual studio 2017\Projects\lexico\lexico\bin\Debug\lexico.pdb
+C:\Users\Meneses\documents\visual studio 2017\Projects\lexico\lexico\obj\Debug\lexico.csprojResolveAssemblyReference.cache
+C:\Users\Meneses\documents\visual studio 2017\Projects\lexico\lexico\obj\Debug\lexico.exe
+C:\Users\Meneses\documents\visual studio 2017\Projects\lexico\lexico\obj\Debug\lexico.pdb
